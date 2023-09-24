@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'Jacques' : ['Jacques Francois Shadow', 'Helvetica'],
+      'Major' : ['Major Mono Display', 'Helvetica'],
+    }
   },
   plugins: [],
 }

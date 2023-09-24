@@ -5,3 +5,7 @@
 
 ![Alt text](ImageforREADME/darkmode.png)
 ![Alt text](ImageforREADME/lightmode.png)
+
+
+###NavigationBar & PictureCard
+![Alt text](ImageforREADME/Picturetab.png)

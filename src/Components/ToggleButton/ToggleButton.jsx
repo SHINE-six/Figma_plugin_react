@@ -2,12 +2,13 @@ import React from 'react';
 import { useState } from 'react';
 import Button from './Button';
 
-const ToggleButton = () => {
+const ToggleButton = (props) => {
     const [LightMode, setLightMode] = useState(false);
 
-    const bgColour = LightMode ? "bg-white" : "bg-gray-800";
+    const bgColour = LightMode ? "bg-slate-200" : "bg-gray-800";
     const handleClick = () => {
         setLightMode(!LightMode);
+        props.handleClick();
     }
 
     return (
