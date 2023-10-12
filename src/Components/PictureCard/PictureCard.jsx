@@ -37,7 +37,7 @@ const PictureCard = () => {
 
     
     return (
-        <div className='w-full h-[884px] flex justify-center items-center bg-gray-800'>
+        <div className='w-full h-full flex justify-center items-center bg-gray-800'>
             <div className='w-full justify-evenly flex-row flex items-center'>
                 <div onClick={() => handleClick("Prev")}><BsFillArrowLeftSquareFill className='text-5xl'/></div>
                 <div className={`w-[1200px] flex justify-center relative`}>

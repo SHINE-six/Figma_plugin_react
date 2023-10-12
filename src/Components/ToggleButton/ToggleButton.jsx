@@ -13,7 +13,7 @@ const ToggleButton = (props) => {
 
     return (
         <div 
-            className={`w-full h-[884px] ${bgColour} justify-center items-center inline-flex`}
+            className={`w-full h-full ${bgColour} justify-center items-center inline-flex`}
         >
             <Button handleClick={handleClick}/>
         </div>
