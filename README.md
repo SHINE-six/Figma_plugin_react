@@ -9,3 +9,6 @@
 
 ###NavigationBar & PictureCard
 ![Alt text](ImageforREADME/Picturetab.png)
+
+###Chess tab + Drag & Drop
+![Alt text](ImageforREADME/Chess.png)
